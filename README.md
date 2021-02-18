@@ -1,2 +1,2 @@
 # fmr-autodamping
-Automatic BBFMR Signal Processing
+Automatic Broadband Ferromagnetic Resonance Signal Processing
